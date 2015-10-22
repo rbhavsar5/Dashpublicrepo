@@ -8,6 +8,8 @@
 
 import UIKit
 import CloudKit
+import CoreData
+
 
 class SpecialsTableViewController: UITableViewController, UISearchResultsUpdating, UISearchBarDelegate {
 

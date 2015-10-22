@@ -8,6 +8,7 @@
 
 import UIKit
 import CloudKit
+import CoreData
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
